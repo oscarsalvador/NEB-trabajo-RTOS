@@ -1,0 +1,83 @@
+- VxWorks (https://www.windriver.com/products/vxworks/datasheet)
+	instlacion
+	disponibilidad
+	plataformas soportadas = OCI containers, C++,
+		boost, Rust, Python, pandas, C11
+	Licencias
+	Precio
+	Entono de desarrollo = POSIX
+	Puertos
+	Entorno de diseno =
+	Estandares sopotado = OCI containers
+	Presentacion
+	Mantenimiento del software
+	objetos del kernel = Non-executable pages
+		Stack guard pages
+		Optional support for Kernel Page Table Isolation (KPTI)
+		Protection of code and read-only data
+		Stack Smashing Protection (SSP)
+	Planificador de tareas = Priority-based preemption with optional round-robin
+		Time and space partitioning
+		Adaptive scheduling offering foreground and background threading
+		POSIX thread scheduling extensions (FIFO and sporadic)
+	Nivel de pioridad = priority based preemptive RTOS
+	Proyectos
+	Soporte de ISRs
+	Empresa = VxWorks
+
+- QNX
+	instlacion
+	disponibilidad
+	plataformas soportadas = Intel 8088, x86, MIPS, PowerPC, SH-4, ARM, StrongARM, XScale
+	Licencias = Comercial
+	Precio
+	Entono de desarrollo = POSIX
+	Puertos
+	Entorno de diseno = OpenGL, HTML5, y Qt 5
+	Estandares sopotado
+	Presentacion
+	Mantenimiento del software
+	objetos del kernel
+	Planificador de tareas 
+	Nivel de pioridad
+	Proyectos
+	Soporte de ISRs
+	Empresa = QNX Software Systems / BlackBerry
+
+- free RTOS
+	instlacion
+	disponibilidad
+	arquitecturas soportadas = ARM, Altra Nios II, Atmel, Cortus, Cypress, Enegy Micro, Espressif, Fujitsu, FreeScale, IBM, Infineon, Intel Micochip Technology, Micosemi, Multiclet, NXP, Renesas, STMicoelectronics, Texas instruments, Xilinx
+	Licencias = Licencia MIT, Licencia de software abierto, GNU General Public License
+	Precio
+	Entono de desarrollo = C
+	Puertos
+	Entorno de diseno 
+	Estandares sopotado =
+	Presentacion
+	Mantenimiento del software
+	objetos del kernel
+	Planificador de tareas 
+	Nivel de pioridad
+	Proyectos
+	Soporte de ISRs
+	Empresa = AWS/Amazon
+
+- Integrity
+	instlacion
+	disponibilidad
+	arquitecturas soportadas = ARM, XScale, Blackfin, ColdFire, MIPS, PowerPC, IA-32, x86-64
+	Licencias
+	Precio
+	Entono de desarrollo 
+	Puertos
+	Entorno de diseno = POSIX
+	Estandares sopotado 
+	Presentacion
+	Mantenimiento del software
+	objetos del kernel
+	Planificador de tareas 
+	Nivel de pioridad
+	Proyectos
+	Soporte de ISRs
+	Empresa = Gren Hills Software
